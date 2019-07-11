@@ -1,0 +1,7 @@
+swagger:
+  enabled: true
+  serviceUrl: http://localhost:8080
+  version:  1.0.0
+  appTitle: Swagger 测试项目
+  appdesc:  Swagger 测试项目
+  base-package: cn.dpc
